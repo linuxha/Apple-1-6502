@@ -15,4 +15,4 @@ Just a note, I'm not even close to being the first to build these boards. Lots o
 
 - https://www.applefritter.com/replica
 - https://www.applefritter.com/apple1
-- https://github/linuxha/apple-1-6800
+- https://github.com/linuxha/apple-1-6800
